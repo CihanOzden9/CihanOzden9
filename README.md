@@ -1,35 +1,49 @@
-# 👋 Hi, I'm Cihan Özden  
-
-💻 Software Engineer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Cihan Özden</h1>
+<h3 align="center">💻 Software Engineer | 🚀 Passionate about Web, Backend & AI</h3>
 
 ---
 
-## 🔥 GitHub Stats
+<!-- Badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CihanOzden9&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihanOzden9&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <a href="mailto:cihanozden.resmi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cyan?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cihanozden">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/CihanOzden9">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,html,css,git,github,vscode,idea" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CihanOzden9&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CihanOzden9&theme=radical" height="180"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CihanOzden9&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CihanOzden9&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🌐 Tech Stack
+## 🌐 Contribution Graph
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,cs,js,html,css" />
-</p>
-
----
-
-## 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cihanozden&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CihanOzden9&theme=github-compact" />
 </p>
 
 ---
@@ -38,14 +52,8 @@
 - 🎓 Computer Engineering student  
 - 💡 Interested in **Backend Development, Web Development, and AI**  
 - 📈 Always improving myself through projects and open-source contributions  
-- 🤝 Open to collaboration and knowledge sharing  
+- 🤝 Open to collaboration and teamwork  
 
 ---
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/cihanozden" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="mailto:cihan.ozden@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-</p>
-
-⭐️ Don’t forget to explore my repositories and leave a star if you like them!  
+⭐️ Feel free to explore my repositories and leave a star if you like them!
