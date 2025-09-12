@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cihan Ozden</h1>
+<h1 align="center">Hi 👋, I'm Cihan Özden</h1>
 <h3 align="center">💻 Software Engineer | 🌱 Lifelong Learner | 🚀 Focused on Web, Backend & AI</h3>
 
 ---
@@ -8,6 +8,7 @@
   <a href="mailto:cihanozden.resmi@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/cihanözden"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/CihanOzden9"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://cihanozden.com"><img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -34,10 +35,18 @@
 
 ---
 
+## 🌐 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CihanOzden9&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
 ## 📝 About Me
 - 🎓 Software Engineering student  
 - 💡 Interested in **Backend, Web, and AI**  
 - 📈 Always improving with personal and open-source projects  
 - 🤝 Open to collaboration and teamwork  
+- 🌍 My personal website: [cihanozden.com](https://cihanozden.com)  
 
 ---
