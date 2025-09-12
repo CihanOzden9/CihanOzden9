@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Cihan Özden  
 
-<!--
-**CihanOzden9/CihanOzden9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Yazılım Mühendisiyim | 🚀 Sürekli öğrenmeye ve gelişmeye açık  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Kullandığım Teknolojiler  
+
+### 🌐 Web Geliştirme
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Java, C#  
+
+### 🐍 Programlama Dilleri
+- Python  
+- Java  
+- JavaScript  
+- C#  
+
+---
+
+## 🛠️ Araçlar & Çalışma Alanım
+- VS Code, IntelliJ IDEA, Rider  
+- Git & GitHub  
+- MySQL & SQL Server  
+- Temiz kod & algoritma geliştirme  
+
+---
+
+## 📌 Hakkımda Kısaca
+- 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
+- 📈 Yazılım geliştirme alanında kendimi sürekli ilerletiyorum.  
+- 🌱 Backend, Web ve Yapay Zeka konularına özel ilgi duyuyorum.  
+- 🤝 Açık kaynak projelerde katkı yapmayı seviyorum.  
+
+---
+
+## 📫 Bana Ulaşın
+- 💼 [LinkedIn](https://www.linkedin.com)  
+- 📧 cihan.ozden@example.com  
+
+---
+
+⭐️ GitHub profilime göz atmayı unutmayın!  
