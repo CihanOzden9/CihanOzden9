@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cihan Özden</h1>
+<h1 align="center">Hi 👋, I'm Cihan Ozden</h1>
 <h3 align="center">💻 Software Engineer | 🌱 Lifelong Learner | 🚀 Focused on Web, Backend & AI</h3>
 
 ---
@@ -6,7 +6,7 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:cihanozden.resmi@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cihanozden"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cihanözden"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/CihanOzden9"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
