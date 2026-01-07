@@ -24,7 +24,7 @@
 ### 🛠️ Tech Universe
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,html,css,git,github,vscode,docker,fastapi,postgres" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,html,css,git,github,vscode,docker" />
 </div>
 
 ---
