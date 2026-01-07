@@ -26,7 +26,7 @@
 ## 💻 Tech Stack
 | **Core** | **Web & Tools** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,python,cs" /> | <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" /> |
+| <img src="https://skillicons.dev/icons?i=cpp,python,cs" /> | <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" /> |
 
 ## 📈 Stats at a Glance
 <p align="center">
