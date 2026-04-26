@@ -1,41 +1,43 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cihan%20Özden&fontSize=70&animation=fadeIn" width="100%" />
 
-  <h3>🚀 Software Engineering Student | Explorer of Low-Level & AI Systems</h3>
+  <h3>🚀 Software Engineering Student | Low-Level & AI Developer</h3>
 
   <p>
-    <em>Building a solid foundation in software architecture, security, and intelligent systems.</em>
+    <em>Sistemlerin çalışma mantığına odaklanan, düşük seviyeli programlama ve yapay zeka tutkunu.</em>
   </p>
 
   <a href="https://www.linkedin.com/in/cihanözden"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/techno.10gic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:cihanozden.resmi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
-### ⚡ Hakkımda (Quick Bio)
+### ⚡ Hakkımda
 
-Yazılım mühendisliği öğrencisi olarak teknolojinin hem mutfağına (Low-Level) hem de geleceğine (AI) ilgi duyuyorum. Karmaşık sistemlerin çalışma mantığını çözmek ve güvenli, ölçeklenebilir yapılar kurmak ana odağım.
+Yazılım mühendisliği öğrencisi olarak teknolojinin hem mutfağına (Low-Level) hem de geleceğine (AI) odaklanıyorum. Sistemlerin nasıl çalıştığını anlamak ve onları optimize etmek temel motivasyonum.
 
-- 🔭 **Şu An:** Django ve .NET ekosisteminde backend uzmanlığımı geliştiriyorum.
-- 🎯 **İlgi Alanları:** Gömülü Sistemler (C++), Yapay Zeka ve Siber Güvenlik.
-- 🌱 **Öğrenim Yolculuğu:** Web teknolojilerine hakimim, şimdi ise derinlemesine backend mimarileri ve AI entegrasyonları üzerine çalışıyorum.
-- 💬 **Soru Sorun:** C++, Python ve Web teknolojileri hakkında konuşmayı severim.
+- 🔭 **Şu An:** Aviyonik sistemler (GÖKHİSAR), gömülü yazılımlar ve NumPy ile temelden yapay zeka mimarileri üzerine çalışıyorum.
+- 🎯 **İlgi Alanları:** Gömülü Sistemler (C/C++), AI & Deep Learning ve Siber Güvenlik (CTF).
+- 🌱 **Vizyon:** Donanım ile yazılımın kesiştiği noktada güvenli ve yüksek performanslı sistemler inşa etmek.
+- 💬 **Soru Sorun:** Assembly, C++, Python ve Microcontrollers hakkında konuşmayı severim.
+
 ### 🛠️ Tech Universe
 
 <p align="left">
-  <strong>Languages & Fundamentals</strong><br>
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,html,css" />
+  <strong>Languages & Low-Level</strong><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,assembly" />
 </p>
 
 <p align="left">
-  <strong>Currently Mastering (Backend & Frameworks)</strong><br>
-  <img src="https://skillicons.dev/icons?i=django,dotnet,nodejs" />
+  <strong>Embedded & AI Tools</strong><br>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,numpy" />
 </p>
 
 <p align="left">
-  <strong>Tools & Environment</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+  <strong>Environment & Others</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
 ---
@@ -44,9 +46,11 @@ Yazılım mühendisliği öğrencisi olarak teknolojinin hem mutfağına (Low-Le
 
 <div align="left">
   <img src="https://img.shields.io/badge/Embedded_Systems-FFB000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-00d1ff?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-00d1ff?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyber_Security-E94560?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic_&_Science-4CAF50?style=for-the-badge&logo=micro-soft-academic&logoColor=white" />
 </div>
+
 ---
 
 ### 📊 GitHub İstatistikleri
