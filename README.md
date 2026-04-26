@@ -18,8 +18,8 @@
 
 Yazılım mühendisliği öğrencisi olarak teknolojinin hem mutfağına (Low-Level) hem de geleceğine (AI) odaklanıyorum. Sistemlerin nasıl çalıştığını anlamak ve onları optimize etmek temel motivasyonum.
 
-- 🔭 **Şu An:** Aviyonik sistemler (GÖKHİSAR), gömülü yazılımlar ve NumPy ile temelden yapay zeka mimarileri üzerine çalışıyorum.
-- 🎯 **İlgi Alanları:** Gömülü Sistemler (C/C++), AI & Deep Learning ve Siber Güvenlik (CTF).
+- 🔭 **Şu An:** Aviyonik sistemler, gömülü yazılımlar ve temelden yapay zeka mimarileri üzerine çalışıyorum.
+- 🎯 **İlgi Alanları:** Gömülü Sistemler, AI & Deep Learning ve Siber Güvenlik.
 - 🌱 **Vizyon:** Donanım ile yazılımın kesiştiği noktada güvenli ve yüksek performanslı sistemler inşa etmek.
 - 💬 **Soru Sorun:** Assembly, C++, Python ve Microcontrollers hakkında konuşmayı severim.
 
@@ -27,7 +27,7 @@ Yazılım mühendisliği öğrencisi olarak teknolojinin hem mutfağına (Low-Le
 
 <p align="left">
   <strong>Languages & Low-Level</strong><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,assembly" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,javascript" />
 </p>
 
 <p align="left">
@@ -37,7 +37,7 @@ Yazılım mühendisliği öğrencisi olarak teknolojinin hem mutfağına (Low-Le
 
 <p align="left">
   <strong>Environment & Others</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </p>
 
 ---
